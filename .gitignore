@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+hw2_5/PetImages
 .Python
 build/
 develop-eggs/
